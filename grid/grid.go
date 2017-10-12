@@ -1,8 +1,8 @@
 package grid
 
 import (
-	"github.com/vivalapanda/endless-territories/entity"
-	"github.com/vivalapanda/endless-territories/event"
+	"github.com/VivaLaPanda/endless-territories/entity"
+	"github.com/VivaLaPanda/endless-territories/event"
 )
 
 // Grid is a representation of a 2D grid of cells that contain entities

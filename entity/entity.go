@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"github.com/vivalapanda/endless-territories/event"
+	"github.com/VivaLaPanda/endless-territories/event"
 )
 
 type Entity interface {
